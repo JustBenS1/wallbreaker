@@ -1,0 +1,11 @@
+      CCCCCCCC     |     OOOOOOOOOO    |NNNN        NNNN|    GGGGGGGGGGG  |RRRRRRRRRRRRR    |        AAAAAAA          |TTTTTTTTTTTTTTTTTTT|   SSSSSSSSSSS  |
+   CCCCC    CCCCC  |   OOOO     OOOOO  |NNNNN       NNNN|   GGGGG    GGGGG|RRRR      RRRR   |       AAAA AAAA         |TTTTTTTTTTTTTTTTTTT| SSSSSS   SSSSSS|
+ CCCCC        CCCCC| OOOO         OOOOO|NNNNNNN     NNNN| GGGGG           |RRRR      RRRRR  |      AAAA   AAAA        |       TTTTT       |SSSSS           |
+CCCC               |OOOO           OOOO|NNNNNNNN    NNNN|GGGGG            |RRRR    RRRRR    |     AAAA     AAAA       |       TTTTT       |SSSSS           |
+CCCC               |OOOO           OOOO|NNNN NNNN   NNNN|GGGG             |RRRRRRRRRRR      |    AAAA       AAAA      |       TTTTT       |  SSSSSS        |
+CCCC               |OOOO           OOOO|NNNN  NNNN  NNNN|GGGG             |RRRRRRRRRRRR     |   AAAAAAAAAAAAAAAAA     |       TTTTT       |   SSSSSSSS     |
+CCCC               |OOOO           OOOO|NNNN   NNNN NNNN|GGGG     GGGGGGGG|RRRR     RRRRR   |  AAAAAAAAAAAAAAAAAAA    |       TTTTT       |      SSSSSSSS  |
+CCCC               |OOOO           OOOO|NNNN    NNNNNNNN|GGGGG        GGGG|RRRR      RRRR   | AAAA             AAAA   |       TTTTT       |         SSSSSS |
+ CCCCC       CCCCCC| OOOO         OOOO |NNNN     NNNNNNN| GGGGG       GGGG|RRRR      RRRRR  |AAAA               AAAA  |       TTTTT       |ssss      SSSSSS|
+   CCCCC    CCCCC  |   OOOO     OOOO   |NNNN      NNNNNN|   GGGGG    GGGGG|RRRR       RRRRR |AAAA                AAAA |       TTTTT       |sSSss      SSSSS|
+     CCCCCCCCC     |     OOOOOOOOO     |NNNN       NNNNN|     GGGGGGGGG   |RRRR        RRRRR|AAA                 AAAAA|       TTTTT       | sSSSSSSSSSSSSS |

@@ -1,0 +1,23 @@
+                           Szabályzat/működési elemek a felhasználóknak :
+
+
+         *  Építő működése :
+    Az Építő feladata , hogy minden fehér cellát valamilyen más színűvel töltsön fel
+  feladata során figyelnie kell arra hogy a Rombolónak minél jobban közbe tegyen
+
+
+         *  Romboló működése :  *
+    A Romboló feladata, hogy minden színes cellát kiüssön, ehhez mindig az azonos színű lövedékkel
+  az azonos színű cellát kell eltalálnia, ha téveszt és más színűt talál el, akkor a lövedéke beépül a falba
+  ha az egész oszlopa üres a falnak, akkor a lövedék elrepül a fal mellett, azaz nem épül be
+  A Romboló különlegessége, : ha az általa eltalált cella színe egyezik a lövedéke színével, akkor ha az eltalált cella
+  szomszédos celláinak színe megegyezik a lövedék és az eltalált cella színével, akkor splash damage alkalmazható rájuk is
+  ha egy splash demage -el kiütött tégla alatt található bármilyen más cella akkor az vagy azok automatikusan felfelé mozdulnak
+  kitöltve az üres cella helyét");
+
+        *  Közös működési elem  *
+    ha az egész oszlop cellákkal van töltve, akkor a lövedék és a tégla is lepattan a fal oszlopának tetejéről, kivéve
+  ha a Romboló teli oszlop tetején lévő cellát talál el annak azonos színű lövedékével, akkor a rombolási mechanizmus lép érvénybe
+
+készen állsz?
+                

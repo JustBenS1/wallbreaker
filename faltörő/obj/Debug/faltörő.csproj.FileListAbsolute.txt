@@ -1,0 +1,14 @@
+C:\Users\bence\Desktop\Szabó_Bence_ELGME6\faltörő\bin\Debug\teszter.exe.config
+C:\Users\bence\Desktop\Szabó_Bence_ELGME6\faltörő\bin\Debug\teszter.exe
+C:\Users\bence\Desktop\Szabó_Bence_ELGME6\faltörő\bin\Debug\teszter.pdb
+C:\Users\bence\Desktop\Szabó_Bence_ELGME6\faltörő\obj\Debug\faltörő.csprojAssemblyReference.cache
+C:\Users\bence\Desktop\Szabó_Bence_ELGME6\faltörő\obj\Debug\faltörő.csproj.CoreCompileInputs.cache
+C:\Users\bence\Desktop\Szabó_Bence_ELGME6\faltörő\obj\Debug\teszter.exe
+C:\Users\bence\Desktop\Szabó_Bence_ELGME6\faltörő\obj\Debug\teszter.pdb
+C:\Users\bence\Desktop\sztf\Szabó_Bence_ELGME6\faltörő\bin\Debug\teszter.exe.config
+C:\Users\bence\Desktop\sztf\Szabó_Bence_ELGME6\faltörő\bin\Debug\teszter.exe
+C:\Users\bence\Desktop\sztf\Szabó_Bence_ELGME6\faltörő\bin\Debug\teszter.pdb
+C:\Users\bence\Desktop\sztf\Szabó_Bence_ELGME6\faltörő\obj\Debug\faltörő.csprojAssemblyReference.cache
+C:\Users\bence\Desktop\sztf\Szabó_Bence_ELGME6\faltörő\obj\Debug\faltörő.csproj.CoreCompileInputs.cache
+C:\Users\bence\Desktop\sztf\Szabó_Bence_ELGME6\faltörő\obj\Debug\teszter.exe
+C:\Users\bence\Desktop\sztf\Szabó_Bence_ELGME6\faltörő\obj\Debug\teszter.pdb
